@@ -1,0 +1,14 @@
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\bin\Debug\net7.0\AnimaA1_19_10.exe
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\bin\Debug\net7.0\AnimaA1_19_10.deps.json
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\bin\Debug\net7.0\AnimaA1_19_10.runtimeconfig.json
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\bin\Debug\net7.0\AnimaA1_19_10.dll
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\bin\Debug\net7.0\AnimaA1_19_10.pdb
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\AnimaA1_19_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\AnimaA1_19_10.AssemblyInfoInputs.cache
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\AnimaA1_19_10.AssemblyInfo.cs
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\AnimaA1_19_10.csproj.CoreCompileInputs.cache
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\AnimaA1_19_10.dll
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\refint\AnimaA1_19_10.dll
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\AnimaA1_19_10.pdb
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\AnimaA1_19_10.genruntimeconfig.cache
+C:\Users\milly\OneDrive\Área de Trabalho\AnimaA1_19_10\obj\Debug\net7.0\ref\AnimaA1_19_10.dll
